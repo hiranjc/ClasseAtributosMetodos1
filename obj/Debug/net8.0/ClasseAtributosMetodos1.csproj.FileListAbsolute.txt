@@ -1,0 +1,14 @@
+C:\Users\ET73\Downloads\projetos-c#\ClasseAtributosMetodos1\bin\Debug\net8.0\ClasseAtributosMetodos1.exe
+C:\Users\ET73\Downloads\projetos-c#\ClasseAtributosMetodos1\bin\Debug\net8.0\ClasseAtributosMetodos1.deps.json
+C:\Users\ET73\Downloads\projetos-c#\ClasseAtributosMetodos1\bin\Debug\net8.0\ClasseAtributosMetodos1.runtimeconfig.json
+C:\Users\ET73\Downloads\projetos-c#\ClasseAtributosMetodos1\bin\Debug\net8.0\ClasseAtributosMetodos1.dll
+C:\Users\ET73\Downloads\projetos-c#\ClasseAtributosMetodos1\bin\Debug\net8.0\ClasseAtributosMetodos1.pdb
+C:\Users\ET73\Downloads\projetos-c#\ClasseAtributosMetodos1\obj\Debug\net8.0\ClasseAtributosMetodos1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ET73\Downloads\projetos-c#\ClasseAtributosMetodos1\obj\Debug\net8.0\ClasseAtributosMetodos1.AssemblyInfoInputs.cache
+C:\Users\ET73\Downloads\projetos-c#\ClasseAtributosMetodos1\obj\Debug\net8.0\ClasseAtributosMetodos1.AssemblyInfo.cs
+C:\Users\ET73\Downloads\projetos-c#\ClasseAtributosMetodos1\obj\Debug\net8.0\ClasseAtributosMetodos1.csproj.CoreCompileInputs.cache
+C:\Users\ET73\Downloads\projetos-c#\ClasseAtributosMetodos1\obj\Debug\net8.0\ClasseAtributosMetodos1.dll
+C:\Users\ET73\Downloads\projetos-c#\ClasseAtributosMetodos1\obj\Debug\net8.0\refint\ClasseAtributosMetodos1.dll
+C:\Users\ET73\Downloads\projetos-c#\ClasseAtributosMetodos1\obj\Debug\net8.0\ClasseAtributosMetodos1.pdb
+C:\Users\ET73\Downloads\projetos-c#\ClasseAtributosMetodos1\obj\Debug\net8.0\ClasseAtributosMetodos1.genruntimeconfig.cache
+C:\Users\ET73\Downloads\projetos-c#\ClasseAtributosMetodos1\obj\Debug\net8.0\ref\ClasseAtributosMetodos1.dll
